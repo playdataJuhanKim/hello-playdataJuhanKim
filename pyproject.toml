@@ -5,7 +5,8 @@ description = "The python program I'm disributing for the first time"
 authors = [
     {name = "oneuse", email = "joohan754@naver.com"},
 ]
-dependencies = []
+dependencies = [
+]
 requires-python = ">=3.8"
 readme = "README.md"
 license = {text = "MIT"}
